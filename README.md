@@ -1,3 +1,4 @@
+LOCAL
 # exo-merge-conflicts
 
 quelques
